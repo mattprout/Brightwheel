@@ -22,11 +22,11 @@ For the database I chose to use Sqlite for several reasons.  First, the database
 
 # Files
 The deliverable files of the project are:  
-`sql_queries.py`
-`create_tables.py`
-`etl.py`
-[Not done: file to create the provider table once]
-[Not done: notebook for analysis queries]
+`sql_queries.py`  
+`create_tables.py`  
+`etl.py`  
+[Not done: file to create the provider table once]  
+[Not done: notebook for analysis queries]  
 
 The following notebooks are included as an FYI and were for testing ideas before copying them to the deliverable files
 TestProviders.ipynb  
